@@ -1,1 +1,1 @@
-# Data-Science
+# Open-Pit Mining - Capstone Project
